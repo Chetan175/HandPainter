@@ -57,6 +57,7 @@ Eraser: Select the black color from the header to erase.
 Change brush thickness or eraser thickness by editing variables in the code:
 
 brushThickness = 15
+
 eraserThickness = 100
 
 Developed by Chetan Ahuja
