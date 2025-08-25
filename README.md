@@ -35,17 +35,18 @@ HandPainter/
 ---
 
 ## 🚀 Installation & Setup
+
 1. Clone the repository:-
    ```bash
    git clone https://github.com/Chetan175/HandPainter.git
    cd HandPainter
 
-2.Install dependencies:-
-pip install -r requirements.txt
+2. Install dependencies:-
+  pip install -r requirements.txt
 
 
-3.Run the HandPainter:-
-python VirtualPainter.py
+3. Run the HandPainter:-
+  python VirtualPainter.py
 
 
 How to Use-
